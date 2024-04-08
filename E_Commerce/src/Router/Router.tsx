@@ -2,7 +2,7 @@ import { Route, Routes } from "react-router-dom";
 import { routes } from "./routerConfig";
 
 export const AppRouter = () => {
-
+    //SET THE MAP FOR THE ROUTER
     return (
 
         <Routes>
