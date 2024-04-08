@@ -31,7 +31,7 @@ function ShopCar() {
   
   //REGION:   COMPLATE PAYMENT
   function CompletePayment() {
-    toast.success('Product Added to Cart!', {
+    toast.success('Payment completed!', {
       style: {
         background: '#333',
         color: '#fff'
